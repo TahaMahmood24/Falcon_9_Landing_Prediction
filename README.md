@@ -1,4 +1,4 @@
-# Falcon_9_Launch
+# Falcon_9_Landing_Prediction
 This is a capstone project for the IBM Data Science Professional Certification, In this project, we aim to predict the successful landing of Falcon 9's first stage, which is reusable and saves costs compared to other rocket providers. We will collect and verify data from an API to aid in determining the cost of launch and help other companies in bidding against SpaceX.
 
 ## Content
